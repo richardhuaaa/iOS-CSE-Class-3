@@ -14,6 +14,7 @@
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		7628BC431341B059003A494C /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 7628BC421341B059003A494C /* Person.m */; };
+		9B5C1E161349BA90000C5259 /* richard.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B5C1E151349BA90000C5259 /* richard.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		7628BC411341B059003A494C /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		7628BC421341B059003A494C /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Class3-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Class3-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		9B5C1E141349BA90000C5259 /* richard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = richard.h; sourceTree = "<group>"; };
+		9B5C1E151349BA90000C5259 /* richard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = richard.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				9B5C1E141349BA90000C5259 /* richard.h */,
+				9B5C1E151349BA90000C5259 /* richard.m */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -167,6 +172,7 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* Class3AppDelegate.m in Sources */,
 				7628BC431341B059003A494C /* Person.m in Sources */,
+				9B5C1E161349BA90000C5259 /* richard.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
